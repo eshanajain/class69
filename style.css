@@ -30,3 +30,45 @@ input
 .travel_mainDiv h5,.travel_mainDiv p{
     margin-left: 20px;
 }
+.movie_head{
+    font-size: 20px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width:100%;
+padding: 6px 22px;
+    display: inline-block;
+}
+.movie_head i{
+    float: right;
+}
+.movie_text span{
+    color: darkgoldenrod;
+}
+.enivronment_li{
+    margin-top: 14px;
+}
+.enivronment_li h4{
+    padding: 8px;
+    border-bottom: 1px solid bisque;
+}
+.environment_li img{
+    border-radius: 25px;
+}
+.book{
+    cursor:pointer;
+}
+.book hr{
+    margin-bottom: 10px;
+}
+.modal-content{
+margin-top: 100px;
+}
+.p_modal{
+    margin-top: 10px;
+}
+.img_modal{
+    display:inline-block;
+}
+.modal-body{
+    text-align: center;
+}
